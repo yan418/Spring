@@ -1,0 +1,15 @@
+[DEBUG][20-06-27][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-06-27][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-06-27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-06-27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-06-27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-06-27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-06-27][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-06-27][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1771243284.
+[DEBUG][20-06-27][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@69930714]
+[DEBUG][20-06-27][com.mybatis.io.dao.UserDao.getUserLike]==>  Preparing: select * from user where username like "%"?"%"
+[DEBUG][20-06-27][com.mybatis.io.dao.UserDao.getUserLike]==> Parameters: a(String)
+[DEBUG][20-06-27][com.mybatis.io.dao.UserDao.getUserLike]<==      Total: 2
+[INFO][20-06-27][io.UserDaoTest]info:进入了testlog4j
+[DEBUG][20-06-27][io.UserDaoTest]debug:进入了testlog4j
+[ERROR][20-06-27][io.UserDaoTest]error:进入了testlog4j
