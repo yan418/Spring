@@ -1,5 +1,6 @@
-# Spring项目，初学者练习
+## Spring项目，基本操作者练习
 分为3个小项目，Spring-aop、Spring-mvc、Spring-mybatis
+
 =======
 # Spring-aop 项目
 搭建Spring工程 <br>
